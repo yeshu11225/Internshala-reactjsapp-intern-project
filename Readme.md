@@ -1,6 +1,6 @@
 # Internshala-reactjsapp-intern-project
 
-This project is a React application that allows users to create and manage accounts. It includes a login page, a registration page, and an account information page where users can view and edit their details. The application is designed using React version 16+ contributing to overall functionality and user experience.
+This project is a React application that allows users to create and manage accounts. It includes a login page, a registration page, and an account information page where users can view and edit their details. The application is designed using React(V16+) contributing to overall functionality and user experience.
 
 
 ## Features
